@@ -1,5 +1,6 @@
 def introduce():
     print('Hello i am Gitte')
+    print('Robi did this')
 
 
 def joke():
@@ -11,4 +12,4 @@ def add(a, b):
     print(p)
 
 
-add(1,3)
+#add(1,3)
